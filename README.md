@@ -22,6 +22,15 @@ Repositori ini berisi kumpulan proyek/kode/script/tools yang dikembangkan untuk 
 
 ---
 
+## 🚀 Cara Menggunakan
+
+1. **Clone Repositori**
+   ```bash
+   git clone https://github.com/username/[Cidzy-MD].git
+   cd [Cidzy-MD]
+
+---
+
 ## 🚀 Cara Menggunakan Via Panel
 
 - Buka Web Domain **Panel**
@@ -54,3 +63,17 @@ Email: [ciddboybot@gmail.com]
 Telegram: [t.me/CidzyImpresive]
 
 Website: [ciddvillain.vercel.app]
+
+---
+## 📝 Kredit
+Sebagian kode awal di repositori ini berasal dari:
+🔗 https://autoresbot.com
+
+Terima kasih kepada para developer yang telah membuat fondasi awal yang sangat membantu.
+---
+## 🪐 MIT License
+
+Copyright (c) 2025 [CidzyImpresive]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software
