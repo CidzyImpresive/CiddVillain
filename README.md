@@ -33,3 +33,24 @@ Repositori ini berisi kumpulan proyek/kode/script/tools yang dikembangkan untuk 
 - Tunggu Sampai ke Install **Node_Module**
 - Bila Sudah Muncul **Pairing/QR** Tinggal di Scan Menggunakan Nomor WhatsApp yang Sudah di Masukan di Config.js
 - Bot Siap di Gunakan Jika ada Kendala Bisa Pencet dan Ajukan Masalah di linkTele
+
+---
+## 💬 Diskusi & Bantuan
+Bergabung dengan diskusi atau tanya langsung melalui Telegram:
+
+👉 Telegram: t.me/username
+
+---
+## 🤝 Kontribusi
+
+Kontribusi terbuka!
+Silakan fork, buat branch, dan kirimkan pull request. Untuk bug atau saran fitur, gunakan Issues.
+
+---
+## 📫 Kontak
+
+Email: [ciddboybot@gmail.com]
+
+Telegram: [t.me/CidzyImpresive]
+
+Website: [ciddvillain.vercel.app]
